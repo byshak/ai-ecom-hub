@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://byshak.github.io/ai-ecom-hub/sitemap.xml
